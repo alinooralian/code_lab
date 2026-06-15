@@ -3,7 +3,7 @@ from gtts import gTTS
 import os
 import uuid
 
-API_TOKEN = "8674489249:AAFQWKDdLep59V3JyhyhjQ2OboiMeTcj8wc"
+API_TOKEN = ""
 
 def text_to_sound(text, output_file):
     myobj = gTTS(text, lang = "en", slow = False)

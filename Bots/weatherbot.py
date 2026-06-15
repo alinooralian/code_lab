@@ -1,7 +1,7 @@
 import telebot
 import requests
 
-API_TOKEN = "7326074022:AAEGzBMTs48aE93Ro4jps3HCtvepabu_3c0"
+API_TOKEN = ""
 
 bot = telebot.TeleBot(API_TOKEN)
 
